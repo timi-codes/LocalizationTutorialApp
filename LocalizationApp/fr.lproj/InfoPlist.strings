@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LocalizationApp
+
+  Created by Timi Tejumola on 07/05/2020.
+  Copyright © 2020 Timi Tejumola. All rights reserved.
+*/
+"CFBundleDisplayName" = "Jouer";
+"NSHumanReadableCopyright" = "2020 Timi Tous droits réservés.";

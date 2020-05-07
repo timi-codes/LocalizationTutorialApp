@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationApp
+
+  Created by Timi Tejumola on 07/05/2020.
+  Copyright © 2020 Timi Tejumola. All rights reserved.
+*/
+
+"welcome" = "Salut, Bienvenue";
+"description" = "Merci d'avoir essayé cette application, vous êtes une personne formidable.";
